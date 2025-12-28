@@ -23,6 +23,15 @@ Mi enfoque principal es el desarrollo Backend utilizando el ecosistema de Micros
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin: 0 10px;" />
 </div>
+
+
+---
+### 📊 Mis Estadísticas en GitHub
+
+![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=FuawFuawDev&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FuawFuawDev&layout=compact&theme=radical&hide_border=true)
+
 <!--
 **FuawFuawDev/FuawFuawDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
