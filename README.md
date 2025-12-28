@@ -25,6 +25,7 @@ Mi enfoque principal es el desarrollo Backend utilizando el ecosistema de Micros
 </div>
 
 
+<!--
 ---
 ### 📊 Mis Estadísticas en GitHub
 
