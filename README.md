@@ -1,8 +1,16 @@
-¡Hola! Soy Anahi (Ani)".
+# ¡Hola! Soy Ani 👋
+### Desarrolladora de Software en formación
 
-Estudiante de Desarrollo de Software (2º año) en Córdoba".
+Soy estudiante de 2º año de la **Tecnicatura Superior en Desarrollo de Software** en el ITSC (Córdoba).
+Mi enfoque principal es el desarrollo Backend utilizando el ecosistema de Microsoft.
 
-Actualmente estoy aprendiendo las siguientes Tecnologías y Herramientas:
+- 🔭 Actualmente estoy trabajando en proyectos con **C# y SQL Server**.
+- 🌱 Buscando profundizar en buenas prácticas y arquitectura de software.
+- ⚡ Objetivo: Desarrollar soluciones escalables y eficientes.
+
+---
+
+### 🛠️ Mi Stack Técnico
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="margin: 0 10px;" />
