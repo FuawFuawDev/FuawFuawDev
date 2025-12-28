@@ -5,10 +5,9 @@ Estudiante de Desarrollo de Software (2º año) en Córdoba".
 Actualmente estoy aprendiendo las siguientes Tecnologías y Herramientas:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,mssql,visualstudio,github,git" />
+  </a>
 </div>
 
 <!--
